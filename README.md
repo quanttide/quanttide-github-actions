@@ -1,2 +1,1 @@
-# quanttide-github-actions
-量潮GitHub Actions
+# 量潮GitHub Actions
